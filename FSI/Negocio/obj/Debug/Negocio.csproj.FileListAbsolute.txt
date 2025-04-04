@@ -1,0 +1,24 @@
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Negocio\bin\Debug\Negocio.dll
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Negocio\bin\Debug\Datos.dll
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Negocio\bin\Debug\Datos.pdb
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Negocio\bin\Debug\Datos.dll.config
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Negocio\obj\Debug\Negocio.dll
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Negocio\obj\Debug\Negocio.dll
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Negocio\bin\Debug\Negocio.dll
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Negocio\bin\Debug\Datos.dll
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Negocio\bin\Debug\Datos.pdb
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Negocio\bin\Debug\Datos.dll.config
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
