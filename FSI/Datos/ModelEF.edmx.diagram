@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="78767b4036c74b33a6c24b337480ad96" Name="Diagram1">
+        <EntityTypeShape EntityType="TF_Fundamentos_Sistemas_InformacionModel.Cliente" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TF_Fundamentos_Sistemas_InformacionModel.Cuenta" Width="1.5" PointX="3" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TF_Fundamentos_Sistemas_InformacionModel.Empleado" Width="1.5" PointX="3" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TF_Fundamentos_Sistemas_InformacionModel.SolicitudPrestamo" Width="1.5" PointX="5.25" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TF_Fundamentos_Sistemas_InformacionModel.Sucursal" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TF_Fundamentos_Sistemas_InformacionModel.sysdiagrams" Width="1.5" PointX="2.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="TF_Fundamentos_Sistemas_InformacionModel.Transacciones" Width="1.5" PointX="5.25" PointY="8.25" IsExpanded="true" />
+        <AssociationConnector Association="TF_Fundamentos_Sistemas_InformacionModel.Cuenta_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="TF_Fundamentos_Sistemas_InformacionModel.Cuenta_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="TF_Fundamentos_Sistemas_InformacionModel.SolicitudPrestamo_Cuenta" ManuallyRouted="false" />
+        <AssociationConnector Association="TF_Fundamentos_Sistemas_InformacionModel.Transacciones_Cuenta" ManuallyRouted="false" />
+        <AssociationConnector Association="TF_Fundamentos_Sistemas_InformacionModel.Empleado_Sucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="TF_Fundamentos_Sistemas_InformacionModel.SolicitudPrestamo_Empleado" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
