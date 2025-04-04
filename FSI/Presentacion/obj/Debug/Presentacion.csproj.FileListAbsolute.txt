@@ -1,0 +1,77 @@
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\bin\Debug\Datos.dll
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\ClienteWindow.g.cs
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\CuentaWindow.g.cs
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\SucursalWindow.g.cs
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\TransaccionesWindow.g.cs
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\App.g.cs
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\ClienteWindow.baml
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\CuentaWindow.baml
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\SucursalWindow.baml
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\TransaccionesWindow.baml
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\EmpleadoWindow.g.cs
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\SolicitudPrestamoWindow.g.cs
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\EmpleadoWindow.baml
+C:\Users\Nemberk Jesus\source\repos\TF_FundamentosSistemas\Presentacion\obj\Debug\SolicitudPrestamoWindow.baml
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\bin\Debug\Datos.dll
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\bin\Debug\EntityFramework.dll
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\bin\Debug\EntityFramework.xml
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\ClienteWindow.g.cs
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\CuentaWindow.g.cs
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\EmpleadoWindow.g.cs
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\MainWindow.g.cs
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\SolicitudPrestamoWindow.g.cs
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\SucursalWindow.g.cs
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\TransaccionesWindow.g.cs
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\App.g.cs
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion_MarkupCompile.cache
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion_MarkupCompile.lref
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\ClienteWindow.baml
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\CuentaWindow.baml
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\EmpleadoWindow.baml
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\MainWindow.baml
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\SolicitudPrestamoWindow.baml
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\SucursalWindow.baml
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\TransaccionesWindow.baml
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion.g.resources
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\TransferenciasWindow.g.cs
+C:\Users\Nemberk Jesus\OneDrive - Universidad Peruana de Ciencias\UNIVERSIDAD\2023-II\FUNDAMENTOS DE SISTEMAS DE INFORMACIÓN\TF\EntregaFinal\TF_FundamentosSistemas\Presentacion\obj\Debug\TransferenciasWindow.baml

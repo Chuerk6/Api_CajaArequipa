@@ -1,0 +1,113 @@
+﻿<Window x:Class="Presentacion.EmpleadoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="EmpleadoWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/caja_pagina.png"/>
+        </Grid.Background>
+        <Label Content="Apellido" HorizontalAlignment="Left" Margin="50,112,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label Content="Cargo" HorizontalAlignment="Left" Margin="50,144,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Button x:Name="btnRegistrar"
+        Content="Registrar"
+        HorizontalAlignment="Left"
+        Margin="84,250,0,0"
+        VerticalAlignment="Top"
+        Width="171"
+        Click="btnRegistrar_Click"
+        BorderBrush="#FF2B7C7F"
+        Foreground="White">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#FFBA55D3" Offset="0" />
+                    <GradientStop Color="#FF07A080" Offset="1" />
+                    <GradientStop Color="#FF991FEA" Offset="0.161"/>
+                    <GradientStop Color="#FF0C84C5" Offset="0.751"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+        <Button x:Name="btnModificar"
+        Content="Modificar"
+        HorizontalAlignment="Left"
+        Margin="84,276,0,0"
+        VerticalAlignment="Top"
+        Width="170"
+        Click="btnModificar_Click"
+        BorderBrush="#FF2B7C7F"
+        Foreground="White">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#FFBA55D3" Offset="0" />
+                    <GradientStop Color="#FF07A080" Offset="1" />
+                    <GradientStop Color="#FF991FEA" Offset="0.161"/>
+                    <GradientStop Color="#FF0C84C5" Offset="0.751"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+        <Button x:Name="btnEliminar"
+        Content="Eliminar"
+        HorizontalAlignment="Left"
+        Margin="84,300,0,0"
+        VerticalAlignment="Top"
+        Width="170"
+        Click="btnEliminar_Click"
+       BorderBrush="#FF2B7C7F"
+        Foreground="White">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#FFBA55D3" Offset="0" />
+                    <GradientStop Color="#FF07A080" Offset="1" />
+                    <GradientStop Color="#FF991FEA" Offset="0.161"/>
+                    <GradientStop Color="#FF0C84C5" Offset="0.751"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+        <Button x:Name="btnSalir"
+        Content="Salir"
+        HorizontalAlignment="Left"
+        Margin="84,350,0,0"
+        VerticalAlignment="Top"
+        Width="170"
+        Click="btnSalir_Click"
+        BorderBrush="#FFD32F2F"
+        Foreground="White">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#FFFF7B7B"/>
+                    <GradientStop Color="#FF870000" Offset="1"/>
+                    <GradientStop Color="#FFFF0707" Offset="0.156"/>
+                    <GradientStop Color="#FFFF0909" Offset="0.855"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <DataGrid x:Name="dgEmpleado" Margin="339,59,23,38" RenderTransformOrigin="0.5,0.5" SelectionChanged="dgDocentes_SelectionChanged" >
+            <DataGrid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.509"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="1.991"/>
+                </TransformGroup>
+            </DataGrid.RenderTransform>
+        </DataGrid>
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="50,84,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="tbNombre" HorizontalAlignment="Left" Margin="109,86,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190"/>
+        <ComboBox x:Name="cbSucursal" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="148,194,0,0"/>
+        <Label Content="Sucursal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="84,190,0,0" Foreground="White"/>
+        <TextBox x:Name="tbApellido" HorizontalAlignment="Left" Margin="110,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="189"/>
+        <ComboBox x:Name="cbCargo" HorizontalAlignment="Left" Margin="110,148,0,0" VerticalAlignment="Top" Width="190" RenderTransformOrigin="-0.043,-1.091">
+            <ComboBoxItem Content="SubGerente"/>
+            <ComboBoxItem Content="Cajero"/>
+            <ComboBoxItem Content="Asesor Comercial"/>
+            <ComboBoxItem Content="Gerente"/>
+        </ComboBox>
+
+    </Grid>
+</Window>
