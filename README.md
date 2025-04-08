@@ -32,5 +32,5 @@ Este proyecto se centra en el desarrollo e implementación de un software para m
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/caja-arequipa-sistema.git
+   git clone https://github.com/tu-usuario/Api_CajaArequipa.git
    ```
